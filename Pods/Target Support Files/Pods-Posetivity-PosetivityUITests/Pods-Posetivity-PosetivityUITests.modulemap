@@ -1,0 +1,6 @@
+framework module Pods_Posetivity_PosetivityUITests {
+  umbrella header "Pods-Posetivity-PosetivityUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
