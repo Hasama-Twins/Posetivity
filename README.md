@@ -9,3 +9,5 @@ Posetivity’s future plans include incorporating comments in the community, so 
 Posetivity was created on XCode with Swift as an iOS Application project. We used Google Firebase Cloud Firestore to store our documents and Google Firebase Cloud Storage for our images. We also incorporated Google AutoML Vision Edge and Tensor Flow Lite to train and deploy a classification model that labels a couple of poses from images taken from the iPhone gallery and camera. 
 
 After two days of coding, we have learned so much at our first Hackathon. Thank you to everyone who made this online event possible.
+
+Youtube Demo: https://youtu.be/M-KAYfoawNI
