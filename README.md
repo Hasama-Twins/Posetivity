@@ -12,4 +12,4 @@ Posetivity was created on XCode with Swift as an iOS Application project. We use
 
 After two days of coding, we have learned so much at our first Hackathon. Thank you to everyone who made this online event possible.
 
-
+Link to Hackathon: https://girlshoohack2020.hackerearth.com/
