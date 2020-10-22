@@ -1,6 +1,6 @@
 # Posetivity
 
-[![](http://img.youtube.com/vi/M-KAYfoawNI/0.jpg)](http://www.youtube.com/watch?v=M-KAYfoawNI "Posetivity Demo Video")
+[![Posetivity Demo Video](http://img.youtube.com/vi/M-KAYfoawNI/0.jpg)](http://www.youtube.com/watch?v=M-KAYfoawNI "Posetivity Demo Video")
 
 
 Youtube Demo: https://youtu.be/M-KAYfoawNI
