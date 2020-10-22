@@ -1,5 +1,8 @@
 # Posetivity
 
+[![](http://img.youtube.com/vi/M-KAYfoawNI/0.jpg)](http://www.youtube.com/watch?v=M-KAYfoawNI "Posetivity Demo")
+
+
 Youtube Demo: https://youtu.be/M-KAYfoawNI
 
 Every day women across the globe feel self-conscious or insecure about their body image. As females ourselves active on several image-based social media apps, we both have felt dissatisfied with our appearances. This lack of contentment has fueled us to promote change in our own lives and the lives of others. Through our experiences with yoga, we have learned to appreciate and become aligned with our bodies, and we wanted to share this opportunity with others. We dream of a world where one day all women love their bodies to the fullest and feel empowered to embrace their differences and diversity!
